@@ -1,4 +1,4 @@
 config:
   name: config-prod.yml
-  info: con.moqi.config
+  info: com.moqi.config
   version: 3.0
