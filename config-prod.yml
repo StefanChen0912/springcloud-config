@@ -1,4 +1,4 @@
 config:
   name: config-prod.yml
   info: com.moqi.config
-  version: 2.0
+  version: 4.0
